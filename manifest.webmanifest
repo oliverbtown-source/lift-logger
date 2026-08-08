@@ -1,0 +1,19 @@
+{
+  "name": "Lift Logger",
+  "short_name": "Lift",
+  "description": "Per-lift logging for the Mango × Matcha program.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf9f7",
+  "theme_color": "#b85c00",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23b85c00'/%3E%3Cg fill='%23fff2ce'%3E%3Crect x='72' y='216' width='56' height='80' rx='16'/%3E%3Crect x='384' y='216' width='56' height='80' rx='16'/%3E%3Crect x='136' y='184' width='64' height='144' rx='20'/%3E%3Crect x='312' y='184' width='64' height='144' rx='20'/%3E%3Crect x='200' y='236' width='112' height='40'/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
